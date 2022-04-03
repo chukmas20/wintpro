@@ -1,0 +1,14 @@
+input[type=number]{
+    width: 30px;
+}
+
+.counter{
+    margin: 20px;
+}
+.placeOrder{
+    margin-right: 20px;
+}
+
+.CarouselImage {
+    width: 20vmax;
+  }

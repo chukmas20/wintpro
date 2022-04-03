@@ -1,0 +1,8 @@
+.banner{
+    background-image: url("../images/wp5.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    object-fit: cover;
+    opacity: 0.9;
+/* background-color: #cccccc; */
+}
